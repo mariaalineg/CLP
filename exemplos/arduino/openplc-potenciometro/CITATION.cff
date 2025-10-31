@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você usar este projeto, por favor cite-o conforme abaixo."
+authors:
+  - family-names: "Gonçalves"
+    given-names: "Maria Aline Gonçalves"
+    orcid: "https://orcid.org/0000-0001-5231-7390"
+title: "Projeto OpenPLC: Leitura de Potenciômetro com Arduino Nano"
+version: 1.0
+date-released: 2025-10-30
+url: "https://github.com/marialineg/CLP"
