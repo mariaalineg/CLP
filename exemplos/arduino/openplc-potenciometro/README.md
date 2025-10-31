@@ -112,3 +112,76 @@ Gire o potenciômetro e observe o comportamento do LED:
 - [OpenPLC - Site Oficial](https://www.autonomylogic.com/)
 - [Wiki do OpenPLC](https://github.com/thiagoralves/OpenPLC_v3/wiki)
 - [Fórum da Comunidade](https://openplc.discussion.community/)
+
+- ---
+
+## 👤 Autoria
+
+**Autor:** [Maria Aline Gonçalves]  
+**Instituição:** Escola Superior Politécnica Uninter
+**Contato:** [aline.erin@gmail.com]  
+**Data de Criação:** Outubro de 2025  
+**Versão:** 1.0  
+---
+
+## 📄 Licença
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) *(ou outra de sua escolha)*.
+Você é livre para:
+- ✅ Usar comercialmente
+- ✅ Modificar
+- ✅ Distribuir
+- ✅ Uso privado
+
+**Condição:** Manter os créditos ao autor original.
+---
+## 📖 Como Citar Este Projeto
+
+Se você utilizar este projeto em trabalhos acadêmicos, publicações ou outros projetos, por favor cite da seguinte forma:
+
+### Formato ABNT
+```
+GONÇALVES, Maria Aline. **Projeto OpenPLC: Leitura de Potenciômetro com Arduino Nano**. 2025. Disponível em: <https://github.com/marialineg/CLP>. Acesso em: dd mmm. aaaa.
+```
+
+### Formato APA
+```
+Gonçalves, M.A. (2025). *Projeto OpenPLC: Leitura de Potenciômetro com Arduino Nano*. GitHub. https://github.com/marialineg/CLP
+```
+
+### Formato BibTeX
+```bibtex
+@misc{maline2025openplc,
+  author = {Maria Aline Gonçalves},
+  title = {Projeto OpenPLC: Leitura de Potenciômetro com Arduino Nano},
+  year = {2025},
+  howpublished = {\url{https://github.com/marialineg/CLP}},
+  note = {Acesso em: dd/mm/aaaa}
+}
+```
+
+### Citação Simplificada
+```
+Maria Aline Gonçalves (2025) - Projeto OpenPLC: Leitura de Potenciômetro com Arduino Nano
+GitHub: https://github.com/marialineg/CLP
+```
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+
+- 🐛 Reportar bugs
+- 💡 Sugerir melhorias
+- 🔧 Enviar pull requests
+- ⭐ Dar uma estrela no projeto
+
+---
+
+## 📬 Contato
+
+Para dúvidas, sugestões ou colaborações:
+
+- **Email:** aline.erin@gmail.com
+---
+
